@@ -5,3 +5,5 @@ skjjdsjsk
 
 6ta linea
 septima linea
+INTENTO DE GIT RESET SOFT
+GIT REVERT
